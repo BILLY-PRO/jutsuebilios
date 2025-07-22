@@ -120,3 +120,33 @@ Built with: `PHP`, `Laravel`, `MySQL`, `Tailwind CSS`, `Livewire`, `GitHub CI`
 
 <p align="center">
   <img src="https://github-readme
+
+---
+
+## 📫 Let’s Connect
+
+- 💌 **Email:** [jutsuebilios1@gmail.com](mailto:jutsuebilios1@gmail.com)  
+- 📞 **Phone:** (+237) 695 975 326 / 651 140 957  
+- 🔗 **LinkedIn:** [linkedin.com/in/jutsue-mekodjio-bilios](https://www.linkedin.com/in/jutsue-mekodjio-bilios)  
+- 🌍 **Portfolio Website:** *(Coming soon — built with React & Tailwind)*
+
+---
+
+## ✨ Personal Mission
+
+> _"To bridge the gap between data and decisions by equipping institutions with intelligent, adaptive, and user-centered digital solutions."_
+
+---
+
+## 🙌 Let's Collaborate
+
+Looking to connect with:
+
+- 🌍 NGOs and healthcare institutions transforming digital systems  
+- 🧪 Research centers seeking reliable data platforms  
+- 🚀 Startups and companies in need of full-stack expertise  
+- 🛠️ Recruiters & remote-first teams building global impact tools
+
+---
+
+_Thank you for visiting my portfolio. I’m open to freelance, full-time, and consulting roles — feel free to reach out!_
